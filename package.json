@@ -1,0 +1,15 @@
+{
+  "name": "vite-uikit3-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.5.4"
+  },
+  "dependencies": {
+    "uikit": "^3.7.3"
+  }
+}
